@@ -1,0 +1,35 @@
+h1{
+    color: aqua;
+}/*ggg 
+html, css, javascript tips  */
+
+/**{
+    background-image: url("cork-board.png");
+}
+*/
+
+.titlepic {
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+
+.picone{
+       display: block;
+    margin: 0 auto;
+    margin-top: 20px; 
+}
+
+.pictwo{
+        display: block;
+    margin: 0 auto;
+    margin-top: 20px; 
+
+}
+.picthree{
+        display: block;
+    margin: 0 auto;
+    margin-top: 20px; 
+
+}
+
