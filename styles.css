@@ -31,5 +31,14 @@ html, css, javascript tips  */
     margin: 0 auto;
     margin-top: 20px; 
 
+=======
+*{
+    background-image: url("cork-board.png");
+}
+
+
+.titlepic{
+    i
+>>>>>>> dfb0ff532e4ca613b1c96b0fe89f7ce1a13a9890
 }
 
